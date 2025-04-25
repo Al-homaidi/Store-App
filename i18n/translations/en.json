@@ -1,0 +1,139 @@
+{
+  "app": {
+    "name": "Plant Shop"
+  },
+  "onboarding": {
+    "slide1": {
+      "title": "Welcome to Plant Shop",
+      "description": "Discover the perfect plants for your home"
+    },
+    "slide2": {
+      "title": "Wide Selection",
+      "description": "Browse through our carefully curated collection"
+    },
+    "slide3": {
+      "title": "Easy Shopping",
+      "description": "Order with just a few taps and get fast delivery"
+    },
+    "getStarted": "Get Started"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "errorEmpty": "Please fill all fields",
+    "errorInvalid": "Invalid email or password",
+    "successLogin": "Login successful",
+    "successRegister": "Registration successful"
+  },
+  "home": {
+    "featured": "Featured Plants",
+    "popular": "Popular",
+    "new": "New Arrivals",
+    "sale": "On Sale"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "added": "Added to Cart",
+    "completeOrder": "Complete Order",
+    "description": "Description",
+    "details": "Product Details",
+    "size": "Size",
+    "care": "Care Level"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "startShopping": "Start Shopping",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "removeConfirm": "Are you sure you want to remove this item?",
+    "yes": "Yes",
+    "no": "No",
+    "loginRequired": "Please log in to complete your order"
+  },
+  "orders": {
+    "title": "My Orders",
+    "empty": "No orders yet",
+    "orderNumber": "Order #",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "items": "Items",
+    "viewDetails": "View Details"
+  },
+  "payment": {
+    "title": "Payment",
+    "methods": "Payment Methods",
+    "applePay": "Apple Pay",
+    "creditCard": "Credit Card",
+    "paypal": "PayPal",
+    "mada": "Mada",
+    "cardNumber": "Card Number",
+    "cardHolder": "Card Holder Name",
+    "expiry": "Expiry Date",
+    "cvv": "CVV",
+    "payNow": "Pay Now",
+    "billingAddress": "Billing Address"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "language": "Language",
+    "currency": "Currency",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "help": "Help & Support",
+    "about": "About Us",
+    "logout": "Logout",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "systemMode": "System Default",
+    "shareApp": "Share App"
+  },
+  "settings": {
+    "language": {
+      "title": "Language",
+      "english": "English",
+      "arabic": "العربية",
+      "turkish": "Türkçe"
+    },
+    "currency": {
+      "title": "Currency",
+      "usd": "USD ($)",
+      "eur": "EUR (€)",
+      "gbp": "GBP (£)",
+      "try": "TRY (₺)",
+      "sar": "SAR (﷼)"
+    },
+    "theme": {
+      "title": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System Default"
+    }
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "search": "Search...",
+    "seeAll": "See All",
+    "back": "Back"
+  },
+  "tabs": {
+    "home": "Home",
+    "cart": "Cart",
+    "orders": "Orders",
+    "profile": "Profile"
+  }
+}

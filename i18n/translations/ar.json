@@ -1,0 +1,139 @@
+{
+  "app": {
+    "name": "متجر النباتات"
+  },
+  "onboarding": {
+    "slide1": {
+      "title": "مرحبًا بك في متجر النباتات",
+      "description": "اكتشف النباتات المثالية لمنزلك"
+    },
+    "slide2": {
+      "title": "تشكيلة واسعة",
+      "description": "تصفح مجموعتنا المختارة بعناية"
+    },
+    "slide3": {
+      "title": "تسوق سهل",
+      "description": "اطلب بنقرات قليلة واحصل على توصيل سريع"
+    },
+    "getStarted": "ابدأ الآن"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "errorEmpty": "يرجى ملء جميع الحقول",
+    "errorInvalid": "بريد إلكتروني أو كلمة مرور غير صالحة",
+    "successLogin": "تم تسجيل الدخول بنجاح",
+    "successRegister": "تم التسجيل بنجاح"
+  },
+  "home": {
+    "featured": "نباتات مميزة",
+    "popular": "الأكثر شعبية",
+    "new": "وصل حديثًا",
+    "sale": "تخفيضات"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "added": "تمت الإضافة إلى السلة",
+    "completeOrder": "إتمام الطلب",
+    "description": "الوصف",
+    "details": "تفاصيل المنتج",
+    "size": "الحجم",
+    "care": "مستوى العناية"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلة التسوق فارغة",
+    "startShopping": "ابدأ التسوق",
+    "total": "المجموع",
+    "checkout": "الدفع",
+    "remove": "إزالة",
+    "removeConfirm": "هل أنت متأكد من رغبتك في إزالة هذا العنصر؟",
+    "yes": "نعم",
+    "no": "لا",
+    "loginRequired": "الرجاء تسجيل الدخول لإتمام طلبك"
+  },
+  "orders": {
+    "title": "طلباتي",
+    "empty": "لا توجد طلبات بعد",
+    "orderNumber": "طلب رقم",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "total": "المجموع",
+    "items": "العناصر",
+    "viewDetails": "عرض التفاصيل"
+  },
+  "payment": {
+    "title": "الدفع",
+    "methods": "طرق الدفع",
+    "applePay": "آبل باي",
+    "creditCard": "بطاقة ائتمان",
+    "paypal": "باي بال",
+    "mada": "مدى",
+    "cardNumber": "رقم البطاقة",
+    "cardHolder": "اسم حامل البطاقة",
+    "expiry": "تاريخ الانتهاء",
+    "cvv": "رمز الأمان",
+    "payNow": "ادفع الآن",
+    "billingAddress": "عنوان الفواتير"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "edit": "تعديل الملف الشخصي",
+    "language": "اللغة",
+    "currency": "العملة",
+    "theme": "المظهر",
+    "notifications": "الإشعارات",
+    "help": "المساعدة والدعم",
+    "about": "من نحن",
+    "logout": "تسجيل الخروج",
+    "darkMode": "الوضع الداكن",
+    "lightMode": "الوضع الفاتح",
+    "systemMode": "وضع النظام",
+    "shareApp": "مشاركة التطبيق"
+  },
+  "settings": {
+    "language": {
+      "title": "اللغة",
+      "english": "English",
+      "arabic": "العربية",
+      "turkish": "Türkçe"
+    },
+    "currency": {
+      "title": "العملة",
+      "usd": "دولار أمريكي ($)",
+      "eur": "يورو (€)",
+      "gbp": "جنيه إسترليني (£)",
+      "try": "ليرة تركية (₺)",
+      "sar": "ريال سعودي (﷼)"
+    },
+    "theme": {
+      "title": "المظهر",
+      "light": "فاتح",
+      "dark": "داكن",
+      "system": "وضع النظام"
+    }
+  },
+  "common": {
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "loading": "جاري التحميل...",
+    "search": "بحث...",
+    "seeAll": "عرض الكل",
+    "back": "رجوع"
+  },
+  "tabs": {
+    "home": "الرئيسية",
+    "cart": "السلة",
+    "orders": "الطلبات",
+    "profile": "الملف"
+  }
+}

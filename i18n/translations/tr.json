@@ -1,0 +1,139 @@
+{
+  "app": {
+    "name": "Bitki Mağazası"
+  },
+  "onboarding": {
+    "slide1": {
+      "title": "Bitki Mağazasına Hoş Geldiniz",
+      "description": "Eviniz için mükemmel bitkileri keşfedin"
+    },
+    "slide2": {
+      "title": "Geniş Seçenek",
+      "description": "Özenle seçilmiş koleksiyonumuza göz atın"
+    },
+    "slide3": {
+      "title": "Kolay Alışveriş",
+      "description": "Birkaç dokunuşla sipariş verin ve hızlı teslimat alın"
+    },
+    "getStarted": "Başla"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "email": "E-posta",
+    "password": "Şifre",
+    "name": "Tam Ad",
+    "forgotPassword": "Şifremi Unuttum?",
+    "noAccount": "Hesabınız yok mu?",
+    "hasAccount": "Zaten hesabınız var mı?",
+    "errorEmpty": "Lütfen tüm alanları doldurun",
+    "errorInvalid": "Geçersiz e-posta veya şifre",
+    "successLogin": "Giriş başarılı",
+    "successRegister": "Kayıt başarılı"
+  },
+  "home": {
+    "featured": "Öne Çıkan Bitkiler",
+    "popular": "Popüler",
+    "new": "Yeni Gelenler",
+    "sale": "İndirimde"
+  },
+  "product": {
+    "addToCart": "Sepete Ekle",
+    "added": "Sepete Eklendi",
+    "completeOrder": "Siparişi Tamamla",
+    "description": "Açıklama",
+    "details": "Ürün Detayları",
+    "size": "Boyut",
+    "care": "Bakım Seviyesi"
+  },
+  "cart": {
+    "title": "Alışveriş Sepeti",
+    "empty": "Sepetiniz boş",
+    "startShopping": "Alışverişe Başla",
+    "total": "Toplam",
+    "checkout": "Ödemeye Geç",
+    "remove": "Kaldır",
+    "removeConfirm": "Bu ürünü sepetten çıkarmak istediğinizden emin misiniz?",
+    "yes": "Evet",
+    "no": "Hayır",
+    "loginRequired": "Siparişinizi tamamlamak için lütfen giriş yapın"
+  },
+  "orders": {
+    "title": "Siparişlerim",
+    "empty": "Henüz sipariş yok",
+    "orderNumber": "Sipariş #",
+    "date": "Tarih",
+    "status": "Durum",
+    "total": "Toplam",
+    "items": "Ürünler",
+    "viewDetails": "Detayları Gör"
+  },
+  "payment": {
+    "title": "Ödeme",
+    "methods": "Ödeme Yöntemleri",
+    "applePay": "Apple Pay",
+    "creditCard": "Kredi Kartı",
+    "paypal": "PayPal",
+    "mada": "Mada",
+    "cardNumber": "Kart Numarası",
+    "cardHolder": "Kart Sahibi",
+    "expiry": "Son Kullanma Tarihi",
+    "cvv": "CVV",
+    "payNow": "Şimdi Öde",
+    "billingAddress": "Fatura Adresi"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit": "Profili Düzenle",
+    "language": "Dil",
+    "currency": "Para Birimi",
+    "theme": "Tema",
+    "notifications": "Bildirimler",
+    "help": "Yardım & Destek",
+    "about": "Hakkımızda",
+    "logout": "Çıkış Yap",
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod",
+    "systemMode": "Sistem Varsayılanı",
+    "shareApp": "Uygulamayı Paylaş"
+  },
+  "settings": {
+    "language": {
+      "title": "Dil",
+      "english": "English",
+      "arabic": "العربية",
+      "turkish": "Türkçe"
+    },
+    "currency": {
+      "title": "Para Birimi",
+      "usd": "USD ($)",
+      "eur": "EUR (€)",
+      "gbp": "GBP (£)",
+      "try": "TRY (₺)",
+      "sar": "SAR (﷼)"
+    },
+    "theme": {
+      "title": "Tema",
+      "light": "Aydınlık",
+      "dark": "Karanlık",
+      "system": "Sistem Varsayılanı"
+    }
+  },
+  "common": {
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "loading": "Yükleniyor...",
+    "search": "Ara...",
+    "seeAll": "Tümünü Gör",
+    "back": "Geri"
+  },
+  "tabs": {
+    "home": "Ana Sayfa",
+    "cart": "Sepet",
+    "orders": "Siparişler",
+    "profile": "Profil"
+  }
+}
