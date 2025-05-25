@@ -32,6 +32,7 @@ import { AtSign, Lock } from 'lucide-react-native';
 const LoginScreen = () => {
   const { t } = useTranslation();
   const { isDark } = useTheme();
+  
   const { isRTL } = useLanguage();
   const { login } = useAuth();
   
